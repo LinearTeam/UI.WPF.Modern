@@ -34,6 +34,9 @@
 </p>
 
 <br>
+# Fork说明
+这是我们（LinearTeam）对UI.WPF.Modern的一个Fork，用于实现我们需要的某些功能
+
   
   ![Home of the Gallery (Light theme)](docs/images/screenshot_home.png "Home of the Gallery (Light theme)")
 
